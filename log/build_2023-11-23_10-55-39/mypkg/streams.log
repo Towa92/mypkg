@@ -1,0 +1,22 @@
+[1.795s] Invoking command in '/home/akun/ros2_ws/src/mypkg': PYTHONPATH=/home/akun/ros2_ws/src/mypkg/build/mypkg/prefix_override:/home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/akun/ros2_ws/src/mypkg/build/mypkg/build install --record /home/akun/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[2.208s] running egg_info
+[2.208s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[2.210s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[2.210s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[2.211s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[2.211s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[2.272s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[2.273s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[2.274s] running build
+[2.274s] running build_py
+[2.274s] running install
+[2.276s] running install_lib
+[2.278s] running install_data
+[2.279s] running install_egg_info
+[2.281s] removing '/home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[2.282s] Copying build/mypkg/mypkg.egg-info to /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[2.284s] running install_scripts
+[2.313s] Installing listener script to /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[2.313s] Installing talker script to /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[2.314s] writing list of installed files to '/home/akun/ros2_ws/src/mypkg/build/mypkg/install.log'
+[2.346s] Invoked command in '/home/akun/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/akun/ros2_ws/src/mypkg/build/mypkg/prefix_override:/home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/akun/ros2_ws/src/mypkg/build/mypkg/build install --record /home/akun/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed

@@ -1,0 +1,41 @@
+[1.526s] Invoking command in '/home/akun/ros2_ws/src/mypkg': PYTHONPATH=/home/akun/ros2_ws/src/mypkg/build/mypkg/prefix_override:/home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/akun/ros2_ws/src/mypkg/build/mypkg/build install --record /home/akun/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[1.853s] running egg_info
+[1.854s] creating build/mypkg/mypkg.egg-info
+[1.854s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[1.855s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[1.855s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[1.856s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[1.856s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[1.858s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.910s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.912s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.912s] running build
+[1.913s] running build_py
+[1.913s] creating /home/akun/ros2_ws/src/mypkg/build/mypkg/build
+[1.914s] creating /home/akun/ros2_ws/src/mypkg/build/mypkg/build/lib
+[1.914s] creating /home/akun/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg
+[1.914s] copying mypkg/talker.py -> /home/akun/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg
+[1.918s] copying mypkg/listener.py -> /home/akun/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg
+[1.918s] copying mypkg/__init__.py -> /home/akun/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg
+[1.919s] running install
+[1.920s] running install_lib
+[1.921s] creating /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[1.922s] copying /home/akun/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg/talker.py -> /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[1.922s] copying /home/akun/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg/listener.py -> /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[1.922s] copying /home/akun/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg/__init__.py -> /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[1.923s] byte-compiling /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg/talker.py to talker.cpython-38.pyc
+[1.925s] byte-compiling /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg/listener.py to listener.cpython-38.pyc
+[1.926s] byte-compiling /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg/__init__.py to __init__.cpython-38.pyc
+[1.926s] running install_data
+[1.927s] creating /home/akun/ros2_ws/src/mypkg/install/mypkg/share/ament_index
+[1.927s] creating /home/akun/ros2_ws/src/mypkg/install/mypkg/share/ament_index/resource_index
+[1.928s] creating /home/akun/ros2_ws/src/mypkg/install/mypkg/share/ament_index/resource_index/packages
+[1.928s] copying resource/mypkg -> /home/akun/ros2_ws/src/mypkg/install/mypkg/share/ament_index/resource_index/packages
+[1.928s] copying package.xml -> /home/akun/ros2_ws/src/mypkg/install/mypkg/share/mypkg
+[1.928s] running install_egg_info
+[1.930s] Copying build/mypkg/mypkg.egg-info to /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[1.932s] running install_scripts
+[1.958s] Installing listener script to /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[1.958s] Installing talker script to /home/akun/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[1.959s] writing list of installed files to '/home/akun/ros2_ws/src/mypkg/build/mypkg/install.log'
+[1.985s] Invoked command in '/home/akun/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/akun/ros2_ws/src/mypkg/build/mypkg/prefix_override:/home/akun/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/akun/ros2_ws/src/mypkg/build/mypkg/build install --record /home/akun/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
