@@ -1,7 +1,7 @@
 #!/bin/bash
 
-dir=-
-[ "$1" != "" ] && dir="$1"
+dir=~
+[ "$1" != "" ] && dir="$1" #if there is a argument change home
 
 cd $dir/ros2_ws
 colcon build
