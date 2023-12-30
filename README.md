@@ -12,7 +12,7 @@
 動作例
 
 
-'''
+```
 端末1
 $ ros2 run mypkg talker
 
@@ -23,19 +23,20 @@ Listen : 1
 Listen : 2
 Listen : 3
 
-'''
+```
 # talk_listen.launch.py
 このノードは二つの端末が立った後に画面表示することを一つにまとめたものです。
 
 動作例
 
-'''
+```
 $ ros2 launch talk_listen.launch.py
+
 Listen : 1
 Listen : 2
 Listen : 3
 
-'''
+```
 
 # テスト環境
 
