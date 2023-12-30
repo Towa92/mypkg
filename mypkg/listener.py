@@ -1,10 +1,10 @@
 import rclpy
 from rclpy.node import Node
-from std_msgs.msg import Int16
+from std_msgs.msg import Int16, String 
 
 def cb(msg):
     global node
-    node.get_logger().info("Listen: %d" % msg.data)
+    node.get_logger().info("Listen: %s" % name)
 
 rclpy.init()
 node = Node("listener")
