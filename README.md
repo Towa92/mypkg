@@ -50,6 +50,8 @@ URL:https://hub.docker.com/repository/docker/ryuichiueda/ubuntu22.04-ros2
 
 # LICENSE
 
+メール:s22c1036gs@s.chibakoudai.jp
+
 このソフトウェアパッケージは3条項BSDライセンスの元、再配布及び使用が許可されています。
 
 LICENSE:https://github.com/Towa92/Mypkg/blob/master/LICENSE
