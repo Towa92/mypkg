@@ -1,8 +1,8 @@
-# Mypkg
+# mypkg
 
 ![test](https://github.com/Towa92/pkg1/actions/workflows/test.yml/badge.svg)
 
-# Mypkgについて
+# mypkgについて
 
 このレポジトリはROS2のパッケージです。千葉工業大学で預かった授業にそった内容となります。
 
